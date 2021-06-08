@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Header](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png "Header")](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png)
+[![Header](https://github.com/KittyX29/KittyX29/blob/main/icons/Blue%20Hand%20Drawn%20Black%20History%20Month%20Social%20and%20Emotional%20Learning%20Google%20Classroom%20Header.png?raw=true "Header")](https://raw.githubusercontent.com/KittyX29/KittyX29/main/icons/Screenshot%202021-05-08%20at%2011.16.15%20AM.png)
 
 
 
