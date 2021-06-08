@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Freelance+coder;Self+taught+programmer;I+am+making+a+programming+language;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Freelance+coder;Self+taught+programmer;Making+a+programming+language;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 **About Me:**
