@@ -15,9 +15,9 @@
 Hey There, 
 My name is Krishna. I'm a school student and a hardcore programmer :) I play guitar and chess.  
 
-I'm working as an official Bot Developer in Dogegarden [https://github.com/dogegarden] 
+I used to work as an official Bot Developer in Dogegarden [https://github.com/dogegarden] 
 
-- 🔭 I’m currently working making a bot for dogehouse.tv
+- 🔭 I’m currently working making a programming language :D
 - 🌱 I’m currently learning TypeScript, Haskell and Rust 
 - 💬 Ask me about any question if you feel like !
 - ⚡ Fun fact: I am dead scared of lizards
