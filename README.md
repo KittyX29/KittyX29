@@ -13,7 +13,7 @@
 
 **About Me:**
 Hey There, 
-My name is Krishna. I'm a school student and a hardcore programmer :) I play guitar and chess.  
+My name is KittyX29. I'm a school student and a hardcore programmer :) I play guitar and chess.  
 
 I used to work as an official Bot Developer in Dogegarden [https://github.com/dogegarden] 
 
