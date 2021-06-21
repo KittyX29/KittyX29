@@ -35,21 +35,14 @@ I used to work as an official Bot Developer in Dogegarden [https://github.com/do
 **My Stats:**
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KittyX29&count_private=true&include_all_commits=true&theme=onedark" alt="KittyX29" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KittyX29&layout=compact&theme=onedark" />
+Sike i wont display them cuz they look bad :(
 
 
 <br>
 
 **Contact me:**
 
-Discord : https://discord.com/channels/@me/KittyX29 or you can DM me at: KittyX29#6918
-
-Email   : krishnaramasimha12@gmail.com
-
+Discord : https://discord.com/channels/@me/KittyX29 or you can DM me at: KittyX29#1415
 
 
 
