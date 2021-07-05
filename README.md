@@ -42,7 +42,7 @@ Sike i wont display them cuz they look bad :(
 
 **Contact me:**
 
-Discord : https://discord.com/channels/@me/KittyX29 or you can DM me at: KittyX29#1415
+Discord : https://discord.com/channels/@me/KittyBorgX or you can DM me at: KittyBorgX#1415
 
 
 
