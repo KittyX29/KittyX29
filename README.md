@@ -17,8 +17,11 @@ My name is KittyBorgX [nah man]. I'm a school student and a hardcore programmer 
 
 _Overview_
 - Ex Bot Developer at [Dogegarden](https://github.com/dogegarden)
+- Creator of [hydralang](https://github.com/KittyBorgX/hydralang) and [englang](https://github.com/KittyBorgX/englang)
+- Contributed to [The Python Discord Site](https://github.com/python-discord/site) - [Link](https://github.com/python-discord/site/pull/569)
+- Contributed to [Sir Lancebot - The python discord bot](https://github.com/python-discord/sir-lancebot) - [Link](https://github.com/python-discord/sir-lancebot/pull/822)
 
-
+_Some info _ : 
 - 🔭 I’m currently working making a programming language :D
 - 🌱 I’m currently learning TypeScript, Haskell and Rust 
 - 💬 Ask me about any question if you feel like !
