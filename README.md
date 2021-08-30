@@ -20,6 +20,7 @@ _Overview_
 - Creator of [hydralang](https://github.com/KittyBorgX/hydralang) and [englang](https://github.com/KittyBorgX/englang)
 - Contributed to [The Python Discord Site](https://github.com/python-discord/site) - [Link](https://github.com/python-discord/site/pull/569)
 - Contributed to [Sir Lancebot - The python discord bot](https://github.com/python-discord/sir-lancebot) - [Link](https://github.com/python-discord/sir-lancebot/pull/822)
+- Creator of the JS version of the [c@m discord bot](https://github.com/Binx-Codes/chrisatmachine-discord-bot)
 
 _Some info:_ 
 - 🔭 I’m currently working making a programming language :D
