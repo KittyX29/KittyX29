@@ -16,7 +16,7 @@ Hey There,
 My name is KittyBorgX [nah man]. I'm a school student and a hardcore programmer :) I play guitar and chess.  
 
 _Overview_
-- Ex Bot Developer at (Dogegarden)[https://github.com/dogegarden] 
+- Ex Bot Developer at [Dogegarden](https://github.com/dogegarden)
 
 
 - 🔭 I’m currently working making a programming language :D
