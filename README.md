@@ -50,9 +50,7 @@ Sike i wont display them cuz they look bad :(
 
 Discord : https://discord.com/channels/@me/KittyBorgX or you can DM me at: KittyBorgX#1415
 
-
-
-
+![Animation](https://github.com/m0lese/m0lese/blob/output/animation.svg)
 
 
 
