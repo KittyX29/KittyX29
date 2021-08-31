@@ -52,5 +52,6 @@ Discord : https://discord.com/channels/@me/KittyBorgX or you can DM me at: Kitty
 
 ![Animation](https://github.com/KittyBorgX/KittyBorgX/blob/animation-output/animation.svg)
 
+Credits : Thanks to @m0lese for the cool animation!
 
 
